@@ -29,7 +29,7 @@ curl http://localhost:5000
 curl http://localhost:5000/status
 ```
 ## 2. Gestión de Contenedores con Docker
-###2.1. Definición del Dockerfile
+### 2.1. Definición del Dockerfile
 Se ha diseñado un Dockerfile optimizado utilizando una imagen base ligera de Python (3-slim) para reducir el tamaño de la imagen final y mejorar la seguridad:
 
 ```bash
